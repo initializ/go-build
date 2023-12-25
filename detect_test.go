@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	gobuild "github.com/paketo-buildpacks/go-build"
-	"github.com/paketo-buildpacks/go-build/fakes"
+	gobuild "github.com/initializ/go-build"
+	"github.com/initializ/go-build/fakes"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/sclevine/spec"
 

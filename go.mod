@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/go-build
+module github.com/initializ/go-build
 
 go 1.18
 
